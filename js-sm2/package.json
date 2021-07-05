@@ -1,0 +1,18 @@
+{
+  "name": "js-sm2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sm2",
+    "demo"
+  ],
+  "author": "luanxuechaowd@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "sm-crypto": "^0.3.0"
+  }
+}
